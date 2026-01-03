@@ -132,9 +132,8 @@ socials:
 #      target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:Rehan.Azmat.NY@gmail.com"
+      url: "mailto:Rehan.Azmat.NY@gmail.com?Subject: Re:%20R.%20Azmat%20Resume"
       title: "Email: Rehan.Azmat.NY@gmail.com"
-      Subject: Re:%20R.%20Azmat%20Resume
       alt: "Rehan.Azmat.NY@gmail.com"
       target: "_blank"
 
