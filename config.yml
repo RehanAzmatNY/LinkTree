@@ -44,10 +44,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>(100+ Posts)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "Rehan's Blog <span class='link-button-text'>(100+ Posts)</span>"
+      url: "ebay.com"
+      alt: "Rehan's Tech Blog"
+      title: "Rehan's Tech Blog"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
