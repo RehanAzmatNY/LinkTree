@@ -100,12 +100,12 @@ links:
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
-  - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
+# - social:
+#      icon: "fa-brands fa-medium"
+#      url: "https://blog.zhgchg.li"
+#      title: "ZhgChgLi's Medium"
+#      alt: "ZhgChgLi's Medium"
+#      target: "_blank"
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/ZhgChgLi"
