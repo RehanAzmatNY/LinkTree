@@ -108,33 +108,34 @@ socials:
 #      target: "_blank"
   - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      url: "https://github.com/RehanAzmatNY"
+      title: "Rehan's GitHub"
+      alt: "Rehan's GitHub"
       target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
-      target: "_blank"
+#  - social:
+#      icon: "fa-brands fa-twitter"
+#      url: "https://twitter.com/zhgchgli"
+#      title: "ZhgChgLi's Twitter"
+#     alt: "ZhgChgLi's Twitter"
+#      target: "_blank"
   - social:
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
+      url: "https://www.linkedin.com/in/rehanazmat/"
+      title: "Rehan's LinkedIn"
+      alt: "Rehan's LinkedIn"
       target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
-      target: "_blank"
+#  - social:
+#      icon: "fa-brands fa-instagram"
+#      url: "https://www.instagram.com/zhgchgli/"
+#      title: "Instagram"
+#      alt: "ZhgChgLi's Instagram"
+#      target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      url: "mailto:Rehan.Azmat.NY@gmail.com"
+      title: "Email: Rehan.Azmat.NY@gmail.com"
+      Subject: Re:%20R.%20Azmat%20Resume
+      alt: "Rehan.Azmat.NY@gmail.com"
       target: "_blank"
 
 # Footer text
