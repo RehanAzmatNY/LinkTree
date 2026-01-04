@@ -9,8 +9,8 @@
 /* Light mode (default) */
 body {
   /* inverted first two colors */
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
   display: flex;
   align-items: center;
   justify-content: center;
