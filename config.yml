@@ -50,11 +50,11 @@ links:
       title: "Rehan's Tech Blog"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Travelog <span class='link-button-text'>(10+ Posts)</span>"
-      url: "https://medium.com/ztravel"
-      alt: "ZhgChgLi's Travelog"
-      title: "ZhgChgLi's Travelog"
+      icon: "fa-brands fa-linkedin"
+      text: "LinkedIn"
+      url: "https://www.linkedin.com/in/rehanazmat/"
+      alt: "LinkedIn"
+      title: "LinkedIn"
       target: "_blank"
   - link:
       icon: "fa-solid fa-rss"
