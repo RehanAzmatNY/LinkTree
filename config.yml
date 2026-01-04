@@ -22,7 +22,7 @@ lang: "en"
 #google_analytics_id:
 
 # HTML Title
-title: "Rehan Azmat's Linktree"
+title: "Rehan Azmat Linktree"
 
 # Avatar image path
 avatar: "./images/profile.jpg"
@@ -67,8 +67,8 @@ links:
       icon: "fa-brands fa-github"
       text: "github"
       url:  "https://github.com/RehanAzmatNY"
-      alt: "Rehan Azmat github"
-      title: "Rehan Azmat github"
+      alt: "GitHub"
+      title: "GitHub"
       target: "_blank"
   - link:
       icon: "fa-solid fa-envelope"
@@ -83,33 +83,6 @@ links:
       alt: "QR Code"
       title: "QR Code"
       target: "_blank"
-
-# List of social media links
-# icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
-# title: The url title
-# url: The URL of the social media link
-# alt: Alternative text for accessibility
-# target: _blank opens in a new tab, _self opens in the same frame
-#socials:
-# - social:
-#      icon: "fa-brands fa-medium"
-#      url: "https://blog.zhgchg.li"
-#      title: "ZhgChgLi's Medium"
-#      alt: "ZhgChgLi's Medium"
-#      target: "_blank"
-#  - social:
-#      icon: "fa-brands fa-twitter"
-#      url: "https://twitter.com/zhgchgli"
-#      title: "ZhgChgLi's Twitter"
-#     alt: "ZhgChgLi's Twitter"
-#      target: "_blank"
-
-#  - social:
-#      icon: "fa-brands fa-instagram"
-#      url: "https://www.instagram.com/zhgchgli/"
-#      title: "Instagram"
-#      alt: "ZhgChgLi's Instagram"
-#      target: "_blank"
 
 # Footer text
 footer: >
