@@ -10,16 +10,16 @@ lang: "en"
 # Use {{ vars.PLUGIN_NAME }} in the settings below
 
 # The output of the plugin can be used below, e.g., {{vars.GithubRepoStarsCountPlugin}}
-plugins:
-  # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
+#plugins:
+#  # Automatically fetch Github repo star count
+#  - GithubRepoStarsCountPlugin:
+#      - ZhgChgLi/ZMarkupParser
+#      - ZhgChgLi/ZReviewTender
+#      - ZhgChgLi/ZMediumToMarkdown
+#     - ZhgChgLi/linkyee
 
 # Google Analytics tracking id
-google_analytics_id:
+#google_analytics_id:
 
 # HTML Title
 title: "Rehan Azmat's Linktree"
