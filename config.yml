@@ -44,7 +44,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-blog"
-      text: "Rehan's Blog"
+      text: "Personal Blog"
       url: "https://www.google.com"
       alt: "Rehan's Tech Blog"
       title: "Rehan's Tech Blog"
@@ -57,11 +57,11 @@ links:
       title: "LinkedIn"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Website"
-      url: "https://zhgchg.li/"
-      alt: "ZhgChgLi's Website"
-      title: "ZhgChgLi's Website"
+      icon: "fa-regular fa-file"
+      text: "Resume"
+      url: "https://rehanazmat.s3.amazonaws.com/RAzmat+Resume.pdf"
+      alt: "Rehan Azmat Resume"
+      title: "Rehan Azmat Resume"
       target: "_blank"
   - link:
       icon: "fa-brands fa-swift"
