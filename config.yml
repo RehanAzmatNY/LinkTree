@@ -64,11 +64,11 @@ links:
       title: "Rehan Azmat Resume"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
+      icon: "fa-solid fa-qrcode"
+      text: "QR Code"
       url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      alt: "Rehan Azmat QR Code"
+      title: "Rehan Azmat QR Code"
       target: "_blank"
   - link:
       icon: "fa-brands fa-markdown"
