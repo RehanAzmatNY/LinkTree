@@ -71,6 +71,13 @@ links:
       title: "Rehan Azmat QR Code"
       target: "_blank"
   - link:
+      icon: "fa-brands fa-github"
+      text: "GitHub"
+      url: "https://github.com/RehanAzmatNY"
+      alt: "RAzmat GitHub"
+      title: "RAzmat GitHub"
+      target: "_blank"
+  - link:
       icon: "fa-solid fa-envelope"
       text: "Email"
       url: "mailto:Rehan.Azmat.NY@gmail.com"
