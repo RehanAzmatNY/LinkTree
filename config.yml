@@ -57,41 +57,32 @@ links:
       title: "LinkedIn"
       target: "_blank"
   - link:
-      icon: "fa-regular fa-file"
+      icon: "fa-solid fa-file"
       text: "Resume"
       url: "https://rehanazmat.s3.amazonaws.com/RAzmat+Resume.pdf"
       alt: "Rehan Azmat Resume"
       title: "Rehan Azmat Resume"
       target: "_blank"
-  - link:
-      icon: "fa-brands fa-swift"
-      text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMarkupParser"
-      alt: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      title: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-markdown"
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
-      alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      title: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      target: "_blank"
-  - link:
+ - link:
       icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      text: "github"
+      url:  "https://github.com/RehanAzmatNY"
+      alt: "Rehan Azmat github"
+      title: "Rehan Azmat github"
       target: "_blank"
-
+  - link:
+      icon: "fa-solid fa-envelope"
+      url: "mailto:Rehan.Azmat.NY@gmail.com?Subject: Re:%20R.%20Azmat%20Resume"
+      title: "Email: Rehan.Azmat.NY@gmail.com"
+      alt: "Rehan.Azmat.NY@gmail.com"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-qrcode"
+      text: "QR Code"
+      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
+      alt: "QR Code"
+      title: "QR Code"
+      target: "_blank"
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -106,36 +97,19 @@ socials:
 #      title: "ZhgChgLi's Medium"
 #      alt: "ZhgChgLi's Medium"
 #      target: "_blank"
-  - social:
-      icon: "fa-brands fa-github"
-      url: "https://github.com/RehanAzmatNY"
-      title: "Rehan's GitHub"
-      alt: "Rehan's GitHub"
-      target: "_blank"
 #  - social:
 #      icon: "fa-brands fa-twitter"
 #      url: "https://twitter.com/zhgchgli"
 #      title: "ZhgChgLi's Twitter"
 #     alt: "ZhgChgLi's Twitter"
 #      target: "_blank"
-  - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/rehanazmat/"
-      title: "Rehan's LinkedIn"
-      alt: "Rehan's LinkedIn"
-      target: "_blank"
+
 #  - social:
 #      icon: "fa-brands fa-instagram"
 #      url: "https://www.instagram.com/zhgchgli/"
 #      title: "Instagram"
 #      alt: "ZhgChgLi's Instagram"
 #      target: "_blank"
-  - social:
-      icon: "fa-solid fa-envelope"
-      url: "mailto:Rehan.Azmat.NY@gmail.com?Subject: Re:%20R.%20Azmat%20Resume"
-      title: "Email: Rehan.Azmat.NY@gmail.com"
-      alt: "Rehan.Azmat.NY@gmail.com"
-      target: "_blank"
 
 # Footer text
 footer: >
