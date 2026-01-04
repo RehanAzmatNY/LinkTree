@@ -43,7 +43,7 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-#     icon: "fa-brands fa-medium"
+      icon: "fa-solid fa-blog"
       text: "Rehan's Blog"
       url: "https://www.google.com"
       alt: "Rehan's Tech Blog"
