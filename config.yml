@@ -44,8 +44,8 @@ tagline: >-
 links:
   - link:
 #      icon: "fa-brands fa-medium"
-      text: "Rehan's Blog <span class='link-button-text'>(100+ Posts)</span>"
-      url: "ebay.com"
+      text: "Rehan's Blog"
+      url: "www.ebay.com"
       alt: "Rehan's Tech Blog"
       title: "Rehan's Tech Blog"
       target: "_blank"
