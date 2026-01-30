@@ -66,7 +66,7 @@ links:
   - link:
       icon: "fa-solid fa-qrcode"
       text: "QR Code"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
+      url: "https://rehanazmat.s3.us-east-1.amazonaws.com/RAzmat_QR_Code.png"
       alt: "Rehan Azmat QR Code"
       title: "Rehan Azmat QR Code"
       target: "_blank"
